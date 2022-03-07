@@ -52,3 +52,4 @@ plugins:
   - jekyll-remote-theme
 staging: https://pa-marineparade-staging.netlify.app
 prod: https://pa-marineparade-prod.netlify.app
+is_government: true
