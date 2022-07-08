@@ -2,5 +2,6 @@ collections:
   programmes:
     output: true
     order:
+      - Programme 3.md
       - Programme 2.md
       - Programme 1.md
