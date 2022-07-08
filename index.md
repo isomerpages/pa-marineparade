@@ -10,13 +10,6 @@ sections:
       title: Main Title
       subtitle: Subtitle
       background: /images/hero-banner.png
-      dropdown:
-        title: Programmes
-        options:
-          - title: Programme1
-            url: /programmes/Programme-1
-          - title: Programme2
-            url: /programmes/Programme-1
   - infobar:
       title: Infobar title
       subtitle: Subtitle
