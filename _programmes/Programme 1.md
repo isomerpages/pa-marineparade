@@ -30,6 +30,3 @@ This **programme** is available *for*
 | programme1     | Text     | Text     |
 | programme1     | Text     | Text     |
 | programme1     | Text     | Text     |
-
-
-
