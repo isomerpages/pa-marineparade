@@ -21,10 +21,16 @@ sections:
       title: Infobar title
       subtitle: Subtitle
       description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      button: Click here
+      url: /programmes/Programme-1
   - resources:
       title: Media
       subtitle: Learn more
       button: View More
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
